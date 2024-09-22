@@ -8,7 +8,7 @@
 
 - Substituir o arquivo principal da aplicação __init__.py por esse __init__.py
 
-- Colocar todos os demais na raiz do projeto, como estão estruturado nesses diretórios.
+- Colocar todos os demais na raiz do projeto, assim como estão estruturados nesses diretório.
   
 
 
